@@ -10,10 +10,8 @@ html {
 
 /* Write your solution here */
 
-@media only screen and (max-width:1090px) and (min-width :642px) {
-  #ostrich{
-    position: absolute;
-      top: 100px;
-}
-
+@media only screen and (max-width: 1320px) {
+  #ostrich {
+    top: -50px;
+  }
 }
